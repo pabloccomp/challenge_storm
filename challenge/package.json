@@ -8,7 +8,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.1.2",
-    "ag-grid-community": "^22.1.0",
+    "ag-grid-community": "^32.0.1",
     "ag-grid-react": "^22.1.0",
     "material-table": "^1.54.2",
     "material-ui": "^0.20.2",
